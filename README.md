@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center"> ARKAD - FINANÇAS </h1>
 
-## Getting Started
+## DESCRIÇÃO DO PROJETO
 
-First, run the development server:
+<p align="justify">
+ Desenvolvido durante a disciplina "Projeto Aplicado a Desenvolvimento de Software" do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas da Universidade de Fortaleza, o sistema Arkad tem como objetivo principal auxiliar as pessoas no controle eficiente de suas finanças. Para isso, oferece recursos como acompanhamento de receitas e despesas, criação de metas e objetivos futuros, bem como dicas e aulas sobre investimentos. A partir dessa iniciativa, o Arkad busca proporcionar uma maior qualidade de vida aos usuários, ajudando-os a melhorar o seu perfil financeiro e, consequentemente, a alcançar seus objetivos pessoais.
+ </p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+### O Projeto foi desenvolvido através de 3 entregáveis
+- [x] Concepção do Projeto:
+ - Mapa das Partes Interessadas
+ - Mapa de Empatia (Personas)
+ - Declaração de Necessidades
+ - PM Canvas
+ - Pitch Inicial
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [x] Desenvolvimento do Projeto:
+ - Badge Agile Explorer (Individual para cada participante)
+        Jeosafá Ferreira
+        ![badge Agile Explorer](https://drive.google.com/file/d/1LwHQ40PxWXbnTtDrRGNFSqKRuGyEvyrQ/view?usp=share_link)
+        Leonardo Vicente
+        ![badge Agile Explorer]()
+        Rafael Oliveira
+        ![badge Agile Explorer](https://drive.google.com/file/d/1s-W6CSojuVh1bklXzuL3a83_sIM4N8fH/view?usp=share_link)
+        Rogério Sobreira
+        ![badge Agile Explorer](https://drive.google.com/file/d/1LwHQ40PxWXbnTtDrRGNFSqKRuGyEvyrQ/view?usp=share_link)
+ - Documento de Visão
+ - Product Backlog
+ - Planejamento das Sprints
+ - Matriz de Riscos
+ - Especificações de Requisitos (Casos de Uso ou Estórias de Usuário)
+ - Stacks utilizadas para desenvolvimento
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- [x] Prototipação da Aplicação Web e Mobile:
+ - Prototipação Web
+ - Prototipação Mobile
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.js`.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
