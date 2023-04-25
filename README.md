@@ -17,13 +17,13 @@
 - [x] Desenvolvimento do Projeto:
  - Badge Agile Explorer (Individual para cada participante)
         Jeosafá Ferreira
-        ![badge Agile Explorer](https://drive.google.com/file/d/1LwHQ40PxWXbnTtDrRGNFSqKRuGyEvyrQ/view?usp=share_link)
+        ![badge Agile Explorer Jeosafá]()
         Leonardo Vicente
-        ![badge Agile Explorer](/public/images/README/Badges/AgileExplorer_Leonardo.jpg)
+        ![badge Agile Explorer Leonardo](/public/images/README/Badges/AgileExplorer_Leonardo.jpg)
         Rafael Oliveira
-        ![badge Agile Explorer](https://drive.google.com/file/d/1s-W6CSojuVh1bklXzuL3a83_sIM4N8fH/view?usp=share_link)
+        ![badge Agile Explorer Rafael](/public/images/README/Badges/AgileExplorer_Rafael.jpg)
         Rogério Sobreira
-        ![badge Agile Explorer](https://drive.google.com/file/d/1LwHQ40PxWXbnTtDrRGNFSqKRuGyEvyrQ/view?usp=share_link)
+        ![badge Agile Explorer Rogério](/public/images/README/Badges/AgileExplorer_Rogerio.jpg)
  - Documento de Visão
  - Product Backlog
  - Planejamento das Sprints
