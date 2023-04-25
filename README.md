@@ -19,7 +19,7 @@
         Jeosafá Ferreira
         ![badge Agile Explorer](https://drive.google.com/file/d/1LwHQ40PxWXbnTtDrRGNFSqKRuGyEvyrQ/view?usp=share_link)
         Leonardo Vicente
-        ![badge Agile Explorer](https://drive.google.com/file/d/1fFXQo-ED6RfjmXXTngVHEydtlrVqy1hI/view?usp=share_link)
+        ![badge Agile Explorer](/public/images/README/Badges/AgileExplorer_Leonardo.jpg)
         Rafael Oliveira
         ![badge Agile Explorer](https://drive.google.com/file/d/1s-W6CSojuVh1bklXzuL3a83_sIM4N8fH/view?usp=share_link)
         Rogério Sobreira
