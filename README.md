@@ -3,7 +3,9 @@
 ## DESCRIÇÃO DO PROJETO
 
 <p align="justify">
- Desenvolvido durante a disciplina "Projeto Aplicado a Desenvolvimento de Software" do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas da Universidade de Fortaleza, o sistema Arkad tem como objetivo principal auxiliar as pessoas no controle eficiente de suas finanças. Para isso, oferece recursos como acompanhamento de receitas e despesas, criação de metas e objetivos futuros, bem como dicas e aulas sobre investimentos. A partir dessa iniciativa, o Arkad busca proporcionar uma maior qualidade de vida aos usuários, ajudando-os a melhorar o seu perfil financeiro e, consequentemente, a alcançar seus objetivos pessoais.
+ Desenvolvido durante a disciplina "Projeto Aplicado a Desenvolvimento de Software" do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas da Universidade de Fortaleza, o sistema Arkad tem como objetivo principal auxiliar as pessoas no controle eficiente de suas finanças. 
+ Para isso, oferece recursos como acompanhamento de receitas e despesas, criação de metas e objetivos futuros, bem como dicas e aulas sobre investimentos.
+ A partir dessa iniciativa, o Arkad busca proporcionar uma maior qualidade de vida aos usuários, ajudando-os a melhorar o seu perfil financeiro e, consequentemente, a alcançar seus objetivos pessoais.
  </p>
 
 ### O Projeto foi desenvolvido através de 3 entregáveis
