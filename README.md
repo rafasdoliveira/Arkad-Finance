@@ -27,6 +27,9 @@
 - [**Especificações de Requisitos**]()
 - [**Stacks utilizadas para desenvolvimento**]()
 
+- [x] Pitch:
+- [**Apresentação**](https://docs.google.com/presentation/d/1H67ssgvCF2BqLltxLiNYCx2PgV08qWOl/edit?usp=sharing&ouid=109875806438110624967&rtpof=true&sd=true)
+- 
 - [x] Prototipação da Aplicação Web e Mobile:
-- [**Prototipação Web**]()
-- [**Prototipação Mobile**]()
+- [**Prototipação Web**](https://www.figma.com/file/VjHOZ7EvvsFhcXpIn9dVw0/Arkad---Web?type=design&t=PU5vdfrqNiygMrTN-1)
+- [**Prototipação Mobile**](https://www.figma.com/file/IaYGKN4DyNuCIbORymGfMm/Arkad---Mobile?type=design&node-id=0%3A1&t=PU5vdfrqNiygMrTN-1)
